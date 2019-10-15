@@ -1,6 +1,6 @@
-## wallet-common
+## ts-common
 
-wallet api에서 공통으로 사용 되는 내용 모듈화
+api에서 공통으로 사용 되는 내용 모듈화
 
 ## directory
 ```sh
