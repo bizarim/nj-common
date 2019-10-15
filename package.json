@@ -1,11 +1,14 @@
 {
-  "name": "wallet-common",
-  "version": "0.1.52",
-  "description": "wallet-common",
+  "name": "ts-common",
+  "version": "1.0.0",
+  "description": "ts-common",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "directories": {
+    "doc": "doc"
+  },
   "scripts": {
-    "test": "mocha --require ts-node/register 'test/**/*.test.ts'",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run lint && rimraf dist && tsc",
     "start": "npm run lint && tsc && node dist",
     "lint": "tslint -p .",
@@ -13,12 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://nb_met@bitbucket.org/nb_met/wallet-common.git"
+    "url": "git+https://github.com/bizarim/ts-common.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/nb_met/wallet-common#readme",
+  "bugs": {
+    "url": "https://github.com/bizarim/ts-common/issues"
+  },
+  "homepage": "https://github.com/bizarim/ts-common#readme",
   "dependencies": {
     "@types/node-uuid": "0.0.28",
     "node-uuid": "^1.4.8",
