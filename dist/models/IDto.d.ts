@@ -3,7 +3,3 @@
  */
 export interface IDto {
 }
-export declare class Fluctuate {
-    readonly memberId: number;
-    readonly amount: number;
-}

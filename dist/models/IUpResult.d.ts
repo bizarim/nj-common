@@ -1,5 +1,8 @@
 import { IDto } from '..';
 import { eErrorCode } from '../enums';
+/**
+ * 프로시저에서 반환되는 result
+ */
 export interface IUpResult {
     errcode: eErrorCode;
     context: Object | undefined;

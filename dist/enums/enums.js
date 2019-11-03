@@ -1,8 +1,4 @@
 "use strict";
-// export enum eMemberType {
-//     provider = 'provider',
-//     member = 'member'
-// }
 Object.defineProperty(exports, "__esModule", { value: true });
 /**
  * database 구분을 위한 정의

@@ -1,8 +1,3 @@
-// export enum eMemberType {
-//     provider = 'provider',
-//     member = 'member'
-// }
-
 /**
  * database 구분을 위한 정의
  */

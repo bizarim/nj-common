@@ -5,5 +5,5 @@ function __export(m) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./error"));
 __export(require("./enums"));
-__export(require("./Global"));
+__export(require("./global"));
 //# sourceMappingURL=index.js.map
