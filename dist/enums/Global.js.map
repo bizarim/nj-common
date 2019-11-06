@@ -1,1 +1,1 @@
-{"version":3,"file":"global.js","sourceRoot":"","sources":["../../src/enums/global.ts"],"names":[],"mappings":";;AAAA;;GAEG;AACH,MAAa,MAAM;;AACQ,gBAAS,GAAW,IAAI,CAAC;AACzB,gBAAS,GAAW,GAAG,CAAC;AACxB,aAAM,GAAW,EAAE,CAAC;AAH/C,wBAIC"}
+{"version":3,"file":"Global.js","sourceRoot":"","sources":["../../src/enums/Global.ts"],"names":[],"mappings":";;AAAA;;GAEG;AACH,MAAa,MAAM;;AACQ,gBAAS,GAAW,IAAI,CAAC;AACzB,gBAAS,GAAW,GAAG,CAAC;AACxB,aAAM,GAAW,EAAE,CAAC;AAH/C,wBAIC"}
